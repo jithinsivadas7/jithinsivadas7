@@ -5,7 +5,7 @@ I've been building websites (SaaS & Web Apps) using PHP for over 6 years. I focu
 ### Here's what I do:
 
 - Full-stack development with PHP and JavaScript
-- Use frameworks like Laravel & CodeIgniter
+- Use frameworks like Laravel, CodeIgniter, NestJS
 - Create interactive interfaces with React and Vue.js
 - Host websites on cloud services like AWS and Digital Ocean
 - Manage databases such as MySQL and PostgreSQL

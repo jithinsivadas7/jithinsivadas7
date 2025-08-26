@@ -15,4 +15,4 @@ I've been building websites (SaaS & Web Apps) using PHP for over 6 years. I focu
 
 I'm detail-oriented and passionate about making your ideas a reality!
 
-Feel free to contact me if you have any questions or want to work together.
+Feel free to contact me at jithinsivadas7@gmail.com if you have any questions or want to work together.
